@@ -9,6 +9,16 @@ Chrome extension with a set of tools to make your life easier when working with 
 - Compress the image to less than 2MB in size, useful when working with large images.
 - Remove the background of any image using AI and download transparent images
 
+## Installation Instructions
+
+- Download the .zip file from the releases page
+- Unzip it using WinRar, 7Zip, etc
+- Go to chrome://extensions
+- Enable the developer mode toggle in the top right corner
+- Click the `Load Unpacked` button
+- Select the unzipped `picture-tools` folder
+- Right click any image to use!
+
 ## Tech Stack
 
 - Transformers.js for running models in the browser

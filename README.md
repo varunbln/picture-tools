@@ -11,7 +11,7 @@ Chrome extension with a set of tools to make your life easier when working with 
 
 ## Installation Instructions
 
-- Download the .zip file from the releases page
+- Download the .zip file from the releases page: https://github.com/varunbln/picture-tools/releases/tag/0.0.1
 - Unzip it using WinRar, 7Zip, etc
 - Go to chrome://extensions
 - Enable the developer mode toggle in the top right corner
